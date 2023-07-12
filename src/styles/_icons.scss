@@ -1,0 +1,224 @@
+// -----------------------------------------------------------------------------
+// icomoon.io
+// -----------------------------------------------------------------------------
+
+@font-face {
+  font-family: 'Iconfont';
+  src: url('/next-static/fonts/icomoon/icomoon.eot?mafc6l');
+  src: url('/next-static/fonts/icomoon/icomoon.eot?mafc6l#iefix') format('embedded-opentype'),
+    url('/next-static/fonts/icomoon/icomoon.ttf?mafc6l') format('truetype'),
+    url('/next-static/fonts/icomoon/icomoon.woff?mafc6l') format('woff'),
+    url('/next-static/fonts/icomoon/icomoon.svg?mafc6l#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class*='icon-']:before {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  display: inline-block;
+  font-family: 'Iconfont';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-up:before {
+  content: '\e900';
+}
+.icon-attachment:before {
+  content: '\e901';
+}
+.icon-back:before {
+  content: '\e902';
+}
+.icon-bookmark:before {
+  content: '\e903';
+}
+.icon-bug:before {
+  content: '\e904';
+}
+.icon-calendar:before {
+  content: '\e905';
+}
+.icon-clear:before {
+  content: '\e906';
+}
+.icon-close:before {
+  content: '\e907';
+}
+.icon-comment:before {
+  content: '\e908';
+}
+.icon-compass:before {
+  content: '\e909';
+}
+.icon-delete:before {
+  content: '\e90a';
+}
+.icon-doc:before {
+  content: '\e90b';
+}
+.icon-documents:before {
+  content: '\e90c';
+}
+.icon-download:before {
+  content: '\e90d';
+}
+.icon-drafts:before {
+  content: '\e90e';
+}
+.icon-exclamation-mark:before {
+  content: '\e90f';
+}
+.icon-expand:before {
+  content: '\e910';
+}
+.icon-globe:before {
+  content: '\e911';
+}
+.icon-hamburger:before {
+  content: '\e912';
+}
+.icon-history:before {
+  content: '\e913';
+}
+.icon-home:before {
+  content: '\e914';
+}
+.icon-chat:before {
+  content: '\e915';
+}
+.icon-check-circle:before {
+  content: '\e916';
+}
+.icon-checkmark:before {
+  content: '\e917';
+}
+.icon-chevron-down:before {
+  content: '\e918';
+}
+.icon-chevron-up:before {
+  content: '\e919';
+}
+.icon-info:before {
+  content: '\e91a';
+}
+.icon-logout:before {
+  content: '\e91b';
+}
+.icon-mail-out:before {
+  content: '\e91c';
+}
+.icon-manage:before {
+  content: '\e91d';
+}
+.icon-minimize:before {
+  content: '\e91e';
+}
+.icon-minus:before {
+  content: '\e91f';
+}
+.icon-more:before {
+  content: '\e920';
+}
+.icon-new-file:before {
+  content: '\e921';
+}
+.icon-next:before {
+  content: '\e922';
+}
+.icon-notebook:before {
+  content: '\e923';
+}
+.icon-paper-plane:before {
+  content: '\e924';
+}
+.icon-pdf:before {
+  content: '\e925';
+}
+.icon-plane:before {
+  content: '\e926';
+}
+.icon-plus:before {
+  content: '\e927';
+}
+.icon-print:before {
+  content: '\e928';
+}
+.icon-profile:before {
+  content: '\e929';
+}
+.icon-qr:before {
+  content: '\e92a';
+}
+.icon-question-mark:before {
+  content: '\e92b';
+}
+.icon-reload:before {
+  content: '\e92c';
+}
+.icon-repeat:before {
+  content: '\e92d';
+}
+.icon-reply:before {
+  content: '\e92e';
+}
+.icon-search:before {
+  content: '\e92f';
+}
+.icon-settings:before {
+  content: '\e930';
+}
+.icon-scheduled:before {
+  content: '\e931';
+}
+.icon-sort:before {
+  content: '\e932';
+}
+.icon-stack:before {
+  content: '\e933';
+}
+.icon-star:before {
+  content: '\e934';
+}
+.icon-upload:before {
+  content: '\e935';
+}
+.icon-warning:before {
+  content: '\e936';
+}
+.icon-chevron-left:before {
+  content: '\e937';
+}
+.icon-chevron-right:before {
+  content: '\e938';
+}
+.icon-edit:before {
+  content: '\e939';
+}
+.icon-cancel:before {
+  content: '\e93a';
+}
+.icon-submitted:before {
+  content: '\e93b';
+}
+.icon-on-hold:before {
+  content: '\e93c';
+}
+.icon-image:before {
+  content: '\e93d';
+}
+.icon-infinity:before {
+  content: '\e93e';
+}
+.icon-briefcase:before {
+  content: '\e93f';
+}
+.icon-profile-special:before {
+  content: '\e940';
+}
+.icon-profile-edit:before {
+  content: '\e941';
+}
